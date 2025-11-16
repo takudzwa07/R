@@ -23,15 +23,19 @@
 
 ## ✨ Mafeatures
 ✅ Stabil & lasts long 
+
 ✅ Support multi-device (MD)  
+
 ✅ Support buttons
+
 ✅ SSupport Custom Pairing Code
+
 ✅ Support  Group
 
 ---
 
 ## 📦 Installation
-Installa nenpm
+Install npm
 ```bash
 npm i angularsockets
 
