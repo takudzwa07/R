@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/ko1i9n.jpg" width="400" style="border-radius:8px;">
+  <img src="https://dabby.vercel.app/menu.jpg" width="400" style="border-radius:8px;">
 </p>
 
 <p align="center">
