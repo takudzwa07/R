@@ -37,4 +37,4 @@
 ## 📦 Instalasi
 Instal lewat npm:
 ```bash
-npm i alisaai-baileys
+npm i alisaai-baileys# R
